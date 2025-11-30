@@ -95,7 +95,7 @@ Assisted in the closing process of residential buildings by conducting damage as
 
 ## Contact
 
-**Email:** [rchikka1@binghamton.edu](mailto:rchikka1@binghamton.edu)
+**Email:** [rchikkala@binghamton.edu](mailto:rchikkala@binghamton.edu)
 
 **Connect on:**
 - [LinkedIn](https://www.linkedin.com/in/rahul-chikkala-43336b212/)

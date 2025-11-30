@@ -3,9 +3,7 @@ layout: default
 title: Home
 ---
 
-# Rahul Chikkala
-
-**Research Intern** | **Software Engineer** | **MS Computer Science**
+# About
 
 Passionate about cybersecurity, privacy-preserving technologies, and building scalable software solutions. Currently conducting NSF-sponsored research at Binghamton University.
 
